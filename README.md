@@ -27,10 +27,12 @@ cv2 4.5.5
 
 # BibTeX
 ```
-@article{InfectiousConceptSizikova22,
-title = {Automatic Infectious Disease Classification Analysis with Concept Discovery},
-year = {2022},
-author = {E. Sizikova and J. Vendrow and X. Cao and R. Grotheer and J. Haddock and L. Kassab and A. Kryshchenko and T. Merkh and R. W. M. A. Madushani and K. Moise and H. V. Vo and C. Wang and M. Coffee and K. Leonard and D. Needell},
+@article{sizikova2022automatic,
+  title={Automatic Infectious Disease Classification Analysis with Concept Discovery},
+  author={Sizikova, Elena and Vendrow, Joshua and Cao, Xu and Grotheer, Rachel and Haddock, Jamie and Kassab, Lara and Kryshchenko, Alona and Merkh, Thomas and Madushani, R. W. M. A. and Moise, Kenny and Vo, Huy V. and Wang, Chuntian and Coffee, Megan and Leonard, Kathryn and Needell, Deanna},
+  journal={arXiv preprint},
+  year={2022}
 }
+
 ```
 
