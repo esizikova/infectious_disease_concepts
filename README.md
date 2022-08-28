@@ -18,7 +18,7 @@ from https://drive.google.com/drive/folders/1BaCmSiD2-ZhzfvoE12Gnd4JJfRm8ph3j?us
 torch 1.8.1+cu102 \
 torchvision 0.9.1+cu102 \
 numpy 1.22.3 \
-cv2 4.5.5 \
+cv2 4.5.5 
 
 3. (Optional) Train VGG16 classifier by running the train_xray_classifier.ipynb notebook.
 
